@@ -15,9 +15,8 @@ This repository contains the backend of a MERN stack application developed using
 3. Role-based access control (Employees, Managers, Admins).
 4. Notes assigned to specific employees.
 5. Notes management (OPEN/COMPLETED states, deletion restrictions).
-6. Weekly login requirement.
-7. Immediate employee access removal.
-8. User management (only Managers/Admins can manage users).
+6. Immediate employee access removal.
+7. User management (only Managers/Admins can manage users).
 
 ## Tech Stack
 - **Express.js** for the backend framework.
