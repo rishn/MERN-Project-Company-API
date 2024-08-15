@@ -20,7 +20,7 @@ This repository contains the backend of a MERN stack application developed using
 8. User management (only Managers/Admins can manage users).
 
 ## Tech Stack
-- **Node.js** and **Express.js** for the backend framework.
+- **Express.js** for the backend framework.
 - **MongoDB** for the database.
 - **Mongoose** for MongoDB object modeling.
 - **JWT** for authentication.
