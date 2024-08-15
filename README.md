@@ -1,4 +1,4 @@
-# MERN Project - Business Company API (Backend)
+# MERN Project - Business Company API (Back-end)
 
 This repository contains the backend of a MERN stack application developed using ExpressJS and MongoDB. It provides the API endpoints and logic necessary for the employee management and notes system.
 
